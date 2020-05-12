@@ -1,2 +1,2 @@
 # Stock-market-predictions
-React js application to display the profits. 
+React js application to display profits of various countries. 
